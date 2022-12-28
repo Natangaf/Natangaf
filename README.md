@@ -43,9 +43,9 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelojlrodrigues&show_icons=true&theme=dracula&line_height=27" alt="Marcelo Rodrigues"/>
+<a href="https://github.com/Natangaf">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natangaf&show_icons=true&theme=tokyonight&line_height=27" alt="Natã Fernandes"/>
 </a>
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojlrodrigues&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/Natangaf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natangaf&theme=tokyonight&hide_langs_below=5" />
 </a>
