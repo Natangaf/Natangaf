@@ -1,11 +1,11 @@
-  ## Me chamo Natã, sou desenvolvedor web e busco trabalhar com javascript com <strong>desenvolvimento fullstack</strong>.<br>
+  ## Natã Fernandes, 
+  
+  ## Olá 🖖,
+  
+  Sou desenvolvedor web e busco trabalhar com javascript com <strong>desenvolvimento fullstack</strong>.<br>
   Venho atuando em um projeto profissional pessoal, na qual, desenvolvo web sites com HTML5 , CSS e JavaScript, React, TypeScript.
-<div align="center">
-  <a href="https://github.com/Natangaf">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Natangaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natangaf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
+  
+ <div  align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,14 +15,20 @@
   
   ##
  
+<div align="center">
+  <a href="https://github.com/Natangaf">
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Natangaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natangaf&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+  ##
+ 
 <div> 
-   <a href="https://www.linkedin.com/in/natanga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/natanga.f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:natanf1enandes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+  
+[![Linkedin Badge](https://img.shields.io/badge/-natangaF-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanga/)](https://www.linkedin.com/in/natanga/)
+[![Instagram Badge](https://img.shields.io/badge/-natangaF-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanga.f/)](https://www.instagram.com/natanga.f/)
+  
   ![Snake animation]( https://github.com/Natangaf/myReadme/blob/output/github-contribution-grid-snake.svg)
 </div>
-  <div align="center" >
-  
-  ![](https://github-profile-trophy.vercel.app/?username=Natangaf&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-</div>
+
+
