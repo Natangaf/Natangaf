@@ -1,7 +1,5 @@
   ## Natã Fernandes, 
   
-  ## Olá 🖖,
-  
   Sou desenvolvedor web e busco trabalhar com javascript com <strong>desenvolvimento fullstack</strong>.<br>
   Venho atuando em um projeto profissional pessoal, na qual, desenvolvo web sites com HTML5 , CSS e JavaScript, React, TypeScript.
   
