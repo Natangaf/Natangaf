@@ -15,12 +15,11 @@
   ##
   ```kotlin
 object natangaf {
- const name = "Natã Fernandes"
- const acknowledgements = "Fullstack Developer"
- 
- const primarySkillset = "Front end Development"
- const languages = listOf("Javascript", "React", "Typescript", "nodejs") 
+   const name = "Natã Fernandes"
+   const acknowledgements = "Fullstack Developer"
 
+   const primarySkillset = "Front end Development"
+   const languages = listOf("Javascript", "React", "Typescript", "nodejs") 
 }
 ```
  
