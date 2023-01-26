@@ -1,6 +1,6 @@
   ## Natã Fernandes, 
   
-  Sou desenvolvedor web e busco trabalhar com javascript com <strong>desenvolvimento fullstack</strong>.<br>
+  Sou desenvolvedor web Front End e caminhando para <strong>desenvolvimento fullstack</strong>.<br>
   Venho atuando em um projeto profissional pessoal, na qual, desenvolvo web sites com HTML5 , CSS e JavaScript, React, TypeScript.
   
  <div  align="center" style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   ```kotlin
 object natangaf {
    const name = "Natã Fernandes"
-   const acknowledgements = "Fullstack Developer"
+   const acknowledgements = "Front end Developer"
 
    const primarySkillset = "Front end Development"
    const languages = listOf("Javascript", "React", "Typescript", "nodejs") 
