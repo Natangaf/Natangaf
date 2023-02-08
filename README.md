@@ -1,43 +1,48 @@
-  ## Natã Fernandes, 
-  
-  Sou desenvolvedor web Front End e caminhando para <strong>desenvolvimento fullstack</strong>.<br>
-  Venho atuando em um projeto profissional pessoal, na qual, desenvolvo web sites com HTML5 , CSS e JavaScript, React, TypeScript.
-  
- <div  align="center" style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+# Natã Fernandes - Front End Developer
+
+Sou um desenvolvedor Front End e estou evoluindo para <strong>desenvolvimento fullstack</strong>. Atuo em projetos pessoais, desenvolvendo sites usando HTML5, CSS, JavaScript, React, TypeScript e Node.js.
+
+
+<div align="center">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
+
   ##
   ```kotlin
-object natangaf {
-   const name = "Natã Fernandes"
-   const acknowledgements = "Front end Developer"
-
-   const primarySkillset = "Front end Development"
-   const languages = listOf("Javascript", "React", "Typescript", "nodejs") 
-}
-```
- 
-<div align="center">
+    const natangaf = {
+    name: "Natã Fernandes",
+    acknowledgements: "Desenvolvedor Front End",
+    primarySkillset: "Desenvolvimento Front End",
+    languages: ["Javascript", "React", "TypeScript", "Node.js"],
+  };
+  ```
+  
+  
+  # Perfil
+  
+  <div align="center">
   <a href="https://github.com/Natangaf">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Natangaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natangaf&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Natangaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natangaf&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
   
-  ##
- 
-<div> 
   
-[![Linkedin Badge](https://img.shields.io/badge/-natangaF-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanga/)](https://www.linkedin.com/in/natanga/)
-[![Instagram Badge](https://img.shields.io/badge/-natangaF-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanga.f/)](https://www.instagram.com/natanga.f/)
-  
+#  Redes Sociais
+<div align="center">
+  <a href="https://www.linkedin.com/in/natanga/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-natangaF-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+   <a href="https://www.instagram.com/natanga.f/">
+    <img alt="instagram" src="https://img.shields.io/badge/-natangaF-purple?style=flat-square&logo=instagram&logoColor=white&link"/>
+    
   ![Snake animation]( https://github.com/Natangaf/myReadme/blob/output/github-contribution-grid-snake.svg)
 </div>
+
 
 
