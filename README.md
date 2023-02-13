@@ -15,11 +15,11 @@ Sou um desenvolvedor Front End e estou evoluindo para <strong>desenvolvimento fu
 
   ##
   ```kotlin
-    const natangaf = {
+  const natangaf = {
     name: "Natã Fernandes",
-    acknowledgements: "Desenvolvedor Front End",
+    title: "Desenvolvedor Front End",
     primarySkillset: "Desenvolvimento Front End",
-    languages: ["Javascript", "React", "TypeScript", "Node.js"],
+    languages: ["JavaScript", "React", "TypeScript", "Node.js"],
   };
   ```
   
@@ -36,11 +36,17 @@ Sou um desenvolvedor Front End e estou evoluindo para <strong>desenvolvimento fu
   
 #  Redes Sociais
 <div align="center">
-  <a href="https://www.linkedin.com/in/natanga/">
+  <a href="https://www.linkedin.com/in/natanga/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-natangaF-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-   <a href="https://www.instagram.com/natanga.f/">
+  </a>
+   <a href="https://www.instagram.com/natanga.f/" target="_blank">
     <img alt="instagram" src="https://img.shields.io/badge/-natangaF-purple?style=flat-square&logo=instagram&logoColor=white&link"/>
-    
+  </a>
+  <a href="https://natangaf.vercel.app/" target="_blank">
+    <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-blue?style=flat-square"/>
+  </a>
+  
+  
   ![Snake animation]( https://github.com/Natangaf/myReadme/blob/output/github-contribution-grid-snake.svg)
 </div>
 
