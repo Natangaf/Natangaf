@@ -1,6 +1,6 @@
-# Natã Fernandes - Front End Developer
+# Natã Fernandes - Full Stack Developer
 
-Sou um desenvolvedor Front End e estou evoluindo para <strong>desenvolvimento fullstack</strong>. Atuo em projetos pessoais, desenvolvendo sites usando HTML5, CSS, JavaScript, React, TypeScript e Node.js.
+Como Desenvolvedor Web Full-Stack , tenho sólidos conhecimentos em HTML5, CSS e JavaScript, bem como em outras tecnologias e ferramentas relevantes para a construção de aplicações web modernas, incluindo APIs, versionamento com Git, React e React Native. Além disso, possuo experiência em metodologias ágeis e estou atualmente me especializando em Back-End com Node.js e SQL.
 
 
 <div align="center">
