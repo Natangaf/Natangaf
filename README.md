@@ -2,14 +2,19 @@
 
 Como Desenvolvedor Web Full-Stack , tenho sólidos conhecimentos em HTML5, CSS e JavaScript, bem como em outras tecnologias e ferramentas relevantes para a construção de aplicações web modernas, incluindo APIs, versionamento com Git, React e React Native. Além disso, possuo experiência em metodologias ágeis e estou atualmente me especializando em Back-End com Node.js e SQL.
 
-
 <div align="center">
+  
+  ## 🛠 Tech Stack
+  
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img alt="django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img alt="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
@@ -32,19 +37,16 @@ Como Desenvolvedor Web Full-Stack , tenho sólidos conhecimentos em HTML5, CSS e
     <img height="150px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natangaf&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
-  
-  
-#  Redes Sociais
-<div align="center">
-  <a href="https://www.linkedin.com/in/natanga/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-natangaF-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-   <a href="https://www.instagram.com/natanga.f/" target="_blank">
-    <img alt="instagram" src="https://img.shields.io/badge/-natangaF-purple?style=flat-square&logo=instagram&logoColor=white&link"/>
-  </a>
-  <a href="https://natangaf.vercel.app/" target="_blank">
-    <img alt="Portfólio" src="https://img.shields.io/badge/-Portfólio-blue?style=flat-square"/>
-  </a>
+
+
+  ## 🗒️ &nbsp;Contato
+<div>
+  <a href="https://www.instagram.com/thyemi_mello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thyemimello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https:https://www.linkedin.com/in/thyemimello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ 
+</div>
   
   
   ![Snake animation]( https://github.com/Natangaf/myReadme/blob/output/github-contribution-grid-snake.svg)
