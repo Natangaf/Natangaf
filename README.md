@@ -34,7 +34,7 @@ Como Desenvolvedor Web Full-Stack , tenho sólidos conhecimentos em HTML5, CSS e
   <div align="center">
   <a href="https://github.com/Natangaf">
     <img height="160px" width="40%" src="https://github-readme-stats.vercel.app/api?username=natangaf&hide=contribs,prs&show=reviews&show_icons=true&theme=tokyonight">
-    <img height="150px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natangaf&layout=compact&theme=tokyonight"/>
+    <img height="140px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natangaf&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
