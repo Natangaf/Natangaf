@@ -24,7 +24,7 @@ Como Desenvolvedor Web Full-Stack , tenho sólidos conhecimentos em HTML5, CSS e
     name: "Natã Fernandes",
     title: "Desenvolvedor Front End",
     primarySkillset: "Desenvolvimento Front End",
-    languages: ["JavaScript", "React", "TypeScript", "Node.js"],
+    languages: ["JavaScript", "React", "TypeScript", "Node.js" , "Laravel" , "Spring boot" ,".NET" ],
   };
   ```
   
@@ -46,7 +46,6 @@ Como Desenvolvedor Web Full-Stack , tenho sólidos conhecimentos em HTML5, CSS e
   <a href="https://www.instagram.com/natangaf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-  ![snake gif](https://github.com/natangaf/natangaf/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 
