@@ -22,25 +22,27 @@ Como Desenvolvedor Web Full-Stack , tenho sólidos conhecimentos em HTML5, CSS e
   ```kotlin
   const natangaf = {
     name: "Natã Fernandes",
-    title: "Desenvolvedor Front End",
+    title: "Desenvolvedor Full Stack",
     primarySkillset: "Desenvolvimento Front End",
     languages: ["JavaScript", "React", "TypeScript", "Node.js" , "Laravel" , "Spring boot" ,".NET" ],
   };
   ```
-  
-  
-  # Perfil
+
+   ## 📊  Estatísticas
   
   <div align="center">
+    
   <a href="https://github.com/Natangaf">
     <img height="160px" width="40%" src="https://github-readme-stats.vercel.app/api?username=natangaf&hide=contribs,prs&show=reviews&show_icons=true&theme=tokyonight">
     <img height="150px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natangaf&layout=compact&theme=tokyonight"/>
   </a>
 </div>
+  
+  ## 🗒️ Contato
 
+<div align="center">
 
-  ## 🗒️ &nbsp;Contato
-<div>
+  
   <a href="https:https://www.linkedin.com/in/natangaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nataf1ernandes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/natangaf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
